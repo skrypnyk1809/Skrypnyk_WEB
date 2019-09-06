@@ -1,0 +1,19 @@
+git branch pz_1_3_1
+git checkout pz_1_3_1
+git add pz_1_3_1.txt
+git commit -m "clone repository"
+git commit -m "add file"
+git add pz_1_3_1.txt
+git commit -m "MY FIRST COMMIT"
+git add pz_1_3_1.txt
+git commit -m "Sec commit"
+git add pz_1_3_1.txt
+git commit -m "Push reposit"
+
+git checkout master
+git merge pz_1_3_1
+git push
+git branch -D pz_1_3_1
+
+git branch Developer
+git checkout Developer
