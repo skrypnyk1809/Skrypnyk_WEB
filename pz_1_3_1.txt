@@ -3,3 +3,4 @@ git add 17.txt
 git commit -m "First my comm"
 git add 17.txt
 git commit -m "Second commit"
+git push
