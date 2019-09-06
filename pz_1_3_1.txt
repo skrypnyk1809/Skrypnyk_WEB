@@ -1,1 +1,2 @@
 git clone https://github.com/skrypnyk1809/Skrypnyk_WEB.git
+git add 17.txt
