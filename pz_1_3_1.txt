@@ -2,3 +2,4 @@ git clone https://github.com/skrypnyk1809/Skrypnyk_WEB.git
 git add 17.txt
 git commit -m "First my comm"
 git add 17.txt
+git commit -m "Second commit"
